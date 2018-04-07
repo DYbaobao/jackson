@@ -1,0 +1,9 @@
+{
+  "birthDate" : "1949-10-02",
+  "nation" : [ "Han", "Meng", "Hui", "Tang", "wang" ],
+  "lakes" : [ "Qinghai lake", "Poyang lake", "Dongting lake", "Taihu lake" ],
+  "traffic" : {
+    "HighWay(HM)" : 4240000,
+    "Train(KM)" : 112000
+  }
+}
