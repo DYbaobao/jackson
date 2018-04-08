@@ -1,0 +1,17 @@
+{
+  "country_id" : "china",
+  "birthDate" : "1949-10-01",
+  "nation" : [ "Han", "Meng", "Hui", "WeiHuer", "Zang" ],
+  "lakes" : [ "QingHai lake", "PoYang lake", "DongTing lake", "TaiHu lake" ],
+  "provinces" : [ {
+    "name" : "ShanXi",
+    "population" : 37751200
+  }, {
+    "name" : "ZheJiang",
+    "population" : 55080000
+  } ],
+  "traffic" : {
+    "HighWay(KM)" : 4240000,
+    "Train(KM)" : 112000
+  }
+}
